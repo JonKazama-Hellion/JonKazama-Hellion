@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="120" height="120" aria-label="Wolf paw print">
+  <g fill="#8a8a8a">
+    <ellipse cx="50" cy="68" rx="26" ry="20"/>
+    <ellipse cx="28" cy="28" rx="9" ry="13" transform="rotate(-15 28 28)"/>
+    <ellipse cx="72" cy="28" rx="9" ry="13" transform="rotate(15 72 28)"/>
+    <ellipse cx="11" cy="52" rx="8" ry="11" transform="rotate(-30 11 52)"/>
+    <ellipse cx="89" cy="52" rx="8" ry="11" transform="rotate(30 89 52)"/>
+  </g>
+</svg>
