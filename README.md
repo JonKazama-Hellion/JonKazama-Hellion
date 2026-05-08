@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hellion-online-media-dark.png" alt="Hellion Online Media" width="640">
+  <img src="./assets/hellion-online-media.png" alt="Hellion Online Media" width="640">
 </div>
 
 <br>
