@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hellion-online-media-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hellion-online-media-light.png">
-    <img src="./assets/hellion-online-media-light.png" alt="Hellion Online Media" width="640">
-  </picture>
+  <img src="./assets/hellion-online-media-dark.png" alt="Hellion Online Media" width="640">
 </div>
 
 <br>
