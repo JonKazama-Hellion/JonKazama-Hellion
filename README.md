@@ -1,14 +1,14 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hellion-online-media.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hellion-online-media-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hellion-online-media-light.png">
-    <img src="./assets/hellion-online-media.png" alt="Hellion Online Media" width="640">
+    <img src="./assets/hellion-online-media-light.png" alt="Hellion Online Media" width="640">
   </picture>
 </div>
 
 <br>
 
-# Jon Kazama
+# <img src="./assets/hellion-mark.png" alt="" height="36" align="center"> Jon Kazama
 
 > Solo dev · Hellion Online Media
 > Tea, wolves, atomic commits.
