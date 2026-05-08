@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/hellion-online-media.png" alt="Hellion Online Media" width="640">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hellion-online-media.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hellion-online-media-light.png">
+    <img src="./assets/hellion-online-media.png" alt="Hellion Online Media" width="640">
+  </picture>
 </div>
 
 <br>
@@ -83,11 +87,16 @@ HTML · CSS · JS — local-first bookmark dashboard browser extension for Chrom
 
 ---
 
-## Other ongoing work
+<details>
+<summary><b>Other ongoing work</b></summary>
+
+<br>
 
 - **Hellion Initiative Webapp** — Next.js 16 management platform for my Star Citizen corp
 - **Nova Corporation CMS** — Next.js 16 · Tailwind v4 · custom Page Builder
 - **Hellion Power Tool** — WPF · PowerShell Windows maintenance utility
+
+</details>
 
 ## Currently learning
 
@@ -114,4 +123,15 @@ Running my Star Citizen corp, the **Hellion Initiative**, healing in FFXIV, and 
 
 > Plus the kind of documentation habit that makes coworkers either grateful or mildly concerned.
 
-[hellion-media.de](https://hellion-media.de)
+<div align="center">
+
+[![hellion-media.de](https://img.shields.io/badge/hellion--media.de-292929?style=for-the-badge)](https://hellion-media.de)
+[![hellion-initiative.online](https://img.shields.io/badge/hellion--initiative.online-292929?style=for-the-badge)](https://hellion-initiative.online)
+![hellion-forge.cloud](https://img.shields.io/badge/hellion--forge.cloud-soon-c2410c?style=for-the-badge&labelColor=292929)
+
+<br>
+
+[![Gitea](https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.com/JonKazama-Hellion)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonKazama-Hellion)
+
+</div>
