@@ -66,20 +66,19 @@ I learn by building real production stuff, breaking it, fixing it, then writing 
 
 ## Open-source projects
 
-### [HellionChat](https://gitea.com/JonKazama-Hellion/HellionChat)
+### [HellionChat](https://gitea.hellion-forge.cloud/JonKazama-Hellion/HellionChat)
 
 C# · Dalamud — privacy-first FFXIV chat plugin
 
-![Latest release](https://img.shields.io/gitea/v/release/JonKazama-Hellion/HellionChat?gitea_url=https%3A%2F%2Fgitea.com&label=latest%20release&color=512BD4)
-![Last commit](https://img.shields.io/gitea/last-commit/JonKazama-Hellion/HellionChat?gitea_url=https%3A%2F%2Fgitea.com&label=last%20commit&color=292E33)
+![Latest release](https://img.shields.io/gitea/v/release/JonKazama-Hellion/HellionChat?gitea_url=https%3A%2F%2Fgitea.hellion-forge.cloud&label=latest%20release&color=512BD4)
+![Last commit](https://img.shields.io/gitea/last-commit/JonKazama-Hellion/HellionChat?gitea_url=https%3A%2F%2Fgitea.hellion-forge.cloud&label=last%20commit&color=292E33)
 
-### [Hellion NewTab](https://github.com/JonKazama-Hellion/Hellion-NewTab)
+### [Hellion NewTab](https://gitea.hellion-forge.cloud/JonKazama-Hellion/Hellion-NewTab)
 
 HTML · CSS · JS — local-first bookmark dashboard browser extension for Chrome, Edge, Brave, Opera, Vivaldi & Firefox
 
-![Latest release](https://img.shields.io/github/v/release/JonKazama-Hellion/Hellion-NewTab?label=latest%20release&color=2196F3)
-![Last commit](https://img.shields.io/github/last-commit/JonKazama-Hellion/Hellion-NewTab?label=last%20commit&color=292E33)
-![Stars](https://img.shields.io/github/stars/JonKazama-Hellion/Hellion-NewTab?style=flat&color=yellow)
+![Latest release](https://img.shields.io/gitea/v/release/JonKazama-Hellion/Hellion-NewTab?gitea_url=https%3A%2F%2Fgitea.hellion-forge.cloud&label=latest%20release&color=2196F3)
+![Last commit](https://img.shields.io/gitea/last-commit/JonKazama-Hellion/Hellion-NewTab?gitea_url=https%3A%2F%2Fgitea.hellion-forge.cloud&label=last%20commit&color=292E33)
 
 ---
 
@@ -123,11 +122,11 @@ Running my Star Citizen corp, the **Hellion Initiative**, healing in FFXIV, and 
 
 [![hellion-media.de](https://img.shields.io/badge/hellion--media.de-292929?style=for-the-badge)](https://hellion-media.de)
 [![hellion-initiative.online](https://img.shields.io/badge/hellion--initiative.online-292929?style=for-the-badge)](https://hellion-initiative.online)
-![hellion-forge.cloud](https://img.shields.io/badge/hellion--forge.cloud-soon-c2410c?style=for-the-badge&labelColor=292929)
+[![hellion-forge.cloud](https://img.shields.io/badge/hellion--forge.cloud-live-c2410c?style=for-the-badge&labelColor=292929)](https://gitea.hellion-forge.cloud)
 
 <br>
 
-[![Gitea](https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.com/JonKazama-Hellion)
+[![Gitea](https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.hellion-forge.cloud/JonKazama-Hellion)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonKazama-Hellion)
 
 </div>
